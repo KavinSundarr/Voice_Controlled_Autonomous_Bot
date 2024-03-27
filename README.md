@@ -8,6 +8,8 @@ The Voice-Controlled Autonomous Robot is designed to showcase the integration of
 
 ## Screenshorts
 
+<img src="https://github.com/irohan0/Voicebot/assets/121719717/6c2202e2-70a9-404d-9231-f426ccadbfab" alt="alt text" width="200"/> <img src="https://github.com/irohan0/Voicebot/assets/121719717/89dd87ab-e333-4514-9121-d29f1b66eb30)" alt="alt text" width="200"/>
+
 ![Screenshot 2024-03-27 130211](https://github.com/irohan0/Voicebot/assets/121719717/6c2202e2-70a9-404d-9231-f426ccadbfab)
 
 ![Screenshot 2024-03-27 130236](https://github.com/irohan0/Voicebot/assets/121719717/89dd87ab-e333-4514-9121-d29f1b66eb30)
