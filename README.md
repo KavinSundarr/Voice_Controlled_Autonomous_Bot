@@ -6,6 +6,12 @@ This project demonstrates a Voice-Controlled Autonomous Robot capable of navigat
 
 The Voice-Controlled Autonomous Robot is designed to showcase the integration of voice command capabilities with autonomous navigation in robotics. Using ROS 2, the robot can navigate its environment and perform various tasks based on user voice commands. This project serves as a demonstration of the potential applications of voice-controlled robotics in various domains.
 
+## Screenshorts
+
+![Screenshot 2024-03-27 130236](https://github.com/irohan0/Voicebot/assets/121719717/94e75955-a1e8-44ce-a592-80c839521af1)
+![Screenshot 2024-03-27 130211](https://github.com/irohan0/Voicebot/assets/121719717/efa1837e-ea22-473c-a033-240918eea5e6)
+
+
 ## Installation and Usage
 
 To run the project, follow these steps:
